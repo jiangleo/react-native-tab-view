@@ -9,7 +9,7 @@
   "scripts": {
     "test": "jest",
     "flow": "flow",
-    "lint": "eslint ."
+    "lint": "eslint"
   },
   "keywords": [
     "react-native-component",
